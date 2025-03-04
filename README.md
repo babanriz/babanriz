@@ -2,6 +2,7 @@
 <h3 align="center">Community Amatir Codingers</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=babanriz&label=Profile%20views&color=0e75b6&style=flat" alt="babanriz" /> </p>
+<p>https://baban-portofolio.vercel.app/</p>
 
 # 💫 About Me: https://baban-portofolio.vercel.app/
 🔭 Kodingan Hanyalah Alat<br>👯 When Bobogohan<br>🤝 Kebersamaan Tim (Urang Nu Gawe)<br>🌱 Anti Kritik<br>💬 Kalau Bicara Suka Kemana-mana(da lempang)<br>⚡ Kedeng deui lulus euweuh energi!
